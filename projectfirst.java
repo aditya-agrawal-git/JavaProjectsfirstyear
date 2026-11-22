@@ -13,7 +13,7 @@ class Expense {
     }
 }
 
-public class expensestrackmanagementsystem {
+public class projectfirst {
 
     static Scanner sc = new Scanner(System.in);
 
